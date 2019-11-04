@@ -6,7 +6,7 @@ namespace Labb_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Okay this is epic");
         }
     }
 }
